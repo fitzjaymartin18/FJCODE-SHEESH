@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @FJCODE-SHEESH
-- 👀 I’m interested in Programming, Trading, Law, and Entrepreneurship
-- 🌱 I’m currently learning how to make a software, and aside from that I am building my own trading system which is based on the Inner Circle Trader
-- 💞️ I’m looking to collaborate on making a software that will enhance the probability and will tell based on data the best time, and model to trade for traders like me.
-- 📫 How to reach me ... I am sorry, as for now, I am still busy learning
+- 👀 I’m interested in Learning Full Stack Web Development, DSA, OS, C, Java, Typescript, Data Science and more...
+- 🌱 I’m currently learning how to develop a software, and aside from that I am building my foundation in Data Structure and Algorithm
+- 💞️ I’m looking to collaborate on making a any projects, create an exciting and memorable experience and learn from other builders.
+- 📫 How to reach me ... You can look into my LinkedIn profile -> Fitz M.
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm an artisan
+- ⚡ Fun fact: ... I am a born artist with creative thinking.
 
 <!---
 FJCODE-SHEESH/FJCODE-SHEESH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
